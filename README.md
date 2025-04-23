@@ -163,8 +163,3 @@ Hot Restart completely resets the application state and rebuilds it from scratch
 ## License
 
 [Add your license information here]
-
-## Acknowledgements
-
-- Flutter team for the amazing framework
-- Supabase for the backend services
