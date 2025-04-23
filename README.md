@@ -157,6 +157,3 @@ Hot Restart completely resets the application state and rebuilds it from scratch
    - Check terminal for error messages
    - Restart the Flutter development server
 
-## License
-
-[Add your license information here]
