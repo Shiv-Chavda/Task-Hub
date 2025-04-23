@@ -9,9 +9,6 @@ A Flutter task management application that uses Supabase for authentication and 
 - Light/dark theme switching
 - Responsive design
 
-## Screenshots
-
-[Add screenshots here]
 
 ## Requirements
 
